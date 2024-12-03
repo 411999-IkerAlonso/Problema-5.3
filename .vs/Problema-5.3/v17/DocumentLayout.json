@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 5\\EJERCICIOS\\Problema-5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B490BA9E-6C4A-40DF-9255-A4DADD0B76CC}|Problema-5.3\\Problema-5.3.csproj|c:\\users\\usuario\\desktop\\kiker\\facultad\\programacion i\\logica\\unidad 5\\ejercicios\\problema-5.3\\problema-5.3\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B490BA9E-6C4A-40DF-9255-A4DADD0B76CC}|Problema-5.3\\Problema-5.3.csproj|solutionrelative:problema-5.3\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B490BA9E-6C4A-40DF-9255-A4DADD0B76CC}|Problema-5.3\\Problema-5.3.csproj|c:\\users\\usuario\\desktop\\kiker\\facultad\\programacion i\\logica\\unidad 5\\ejercicios\\problema-5.3\\problema-5.3\\datos\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B490BA9E-6C4A-40DF-9255-A4DADD0B76CC}|Problema-5.3\\Problema-5.3.csproj|solutionrelative:problema-5.3\\datos\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B490BA9E-6C4A-40DF-9255-A4DADD0B76CC}|Problema-5.3\\Problema-5.3.csproj|c:\\users\\usuario\\desktop\\kiker\\facultad\\programacion i\\logica\\unidad 5\\ejercicios\\problema-5.3\\problema-5.3\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B490BA9E-6C4A-40DF-9255-A4DADD0B76CC}|Problema-5.3\\Problema-5.3.csproj|solutionrelative:problema-5.3\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 5\\EJERCICIOS\\Problema-5.3\\Problema-5.3\\Datos\\DAO.cs",
+              "RelativeDocumentMoniker": "Problema-5.3\\Datos\\DAO.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 5\\EJERCICIOS\\Problema-5.3\\Problema-5.3\\Datos\\DAO.cs",
+              "RelativeToolTip": "Problema-5.3\\Datos\\DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:17:27.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 5\\EJERCICIOS\\Problema-5.3\\Problema-5.3\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Problema-5.3\\Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 5\\EJERCICIOS\\Problema-5.3\\Problema-5.3\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Problema-5.3\\Presentacion\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwKAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:02:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 5\\EJERCICIOS\\Problema-5.3\\Problema-5.3\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Problema-5.3\\Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\KIKER\\FACULTAD\\PROGRAMACION I\\LOGICA\\UNIDAD 5\\EJERCICIOS\\Problema-5.3\\Problema-5.3\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Problema-5.3\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:34:08.937Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
